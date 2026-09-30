@@ -1,0 +1,10 @@
+services:
+  bot:
+    build:
+      context: .
+      network: host   # сборка через сеть хоста (на некоторых VPS bridge-сеть Docker без выхода в интернет)
+    restart: unless-stopped
+    env_file: .env
+    network_mode: host   # бот не слушает портов, ему нужен только исходящий доступ к Telegram
+    volumes:
+      - ./data:/data
