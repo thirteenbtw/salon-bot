@@ -5,11 +5,7 @@ Telegram-бот: клиент выбирает услугу, дату и вре�
 
 **Стек:** Python 3.12, aiogram 3, SQLite (файл в `./data`), Docker.
 
-## 🎬 Видео-презентация
-
-[![Видео-презентация бота](docs/presentation-preview.jpg)](docs/presentation.mp4)
-
-*48 секунд: путь клиента от выбора услуги до напоминания, затем сторона мастера. Нажмите на картинку, чтобы открыть видео.*
+https://github.com/user-attachments/assets/296d95ee-72b0-4ee3-adbd-e8a581a64524
 
 ## 🔗 Демо
 
