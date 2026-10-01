@@ -7,9 +7,9 @@ Telegram-бот: клиент выбирает услугу, дату и вре�
 
 ## 🎬 Видео-презентация
 
-[![Видео-презентация бота](docs/presentation-preview.jpg)](docs/presentation.mp4)
+<video src="https://github.com/thirteenbtw/salon-bot/raw/main/docs/presentation.mp4" poster="https://github.com/thirteenbtw/salon-bot/raw/main/docs/presentation-preview.jpg" controls muted width="100%"></video>
 
-*48 секунд: путь клиента от выбора услуги до напоминания, затем сторона мастера. Нажмите на картинку, чтобы открыть видео.*
+*48 секунд: путь клиента от выбора услуги до напоминания, затем сторона мастера. Если плеер не загрузился — [открыть видео](docs/presentation.mp4).*
 
 ## 🔗 Демо
 
